@@ -10,6 +10,7 @@ The visuals shown here are authorized screenshots of the dashboards and analytic
 ### Overview
 
 ![PO Dashboard](https://raw.githubusercontent.com/LucianoMalagola/MainStreet-Renewal-Supply-Chain-Dashboard-Excel-BI-System-/refs/heads/main/Excel%20Dashboard%20-%20MainStreet%20Renewal/1_PO_dashboard.png)
+
 ![Initials Dashboard](https://raw.githubusercontent.com/LucianoMalagola/MainStreet-Renewal-Supply-Chain-Dashboard-Excel-BI-System-/refs/heads/main/Excel%20Dashboard%20-%20MainStreet%20Renewal/3_Initials_dashboard.png)
 
 <p align="center">
