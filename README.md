@@ -2,7 +2,7 @@
 Interactive Excel dashboard developed for MainStreet Renewal’s Supply Chain and Field Services Department, integrating data from multiple SharePoints to monitor KPIs, team performance, and job status across U.S. markets. The tool provides weekly segmentation and KPI visualization using PivotTables, charts, VBA and custom VLOOKUP/XLOOKUP tools
 
 ## **_Data Privacy Notice_**
-Due to confidentiality agreements with MainStreet Renewal, the datasets used in this project cannot be shared, as they contain sensitive client and property information.
+Due to confidentiality agreements with MainStreet Renewal, the source data used in this project cannot be shared, as they contain sensitive client and property information.
 The visuals shown here are authorized screenshots of the dashboards and analytical tools developed. Any potentially sensitive details (such as property addresses) have been hidden in accordance with company policy.
 
 ---
@@ -27,7 +27,7 @@ The tool consolidates multi-source data from several company SharePoints into a 
 
 - Data Cleaning & Transformation
   - Applied best practices in data validation, normalization, and error handling, ensuring consistent and accurate analysis.
-  - Added custom calculated fields for week-based reporting (Year-Week), allowing consistent week-over-week KPI review.
+  - Added custom calculated fields for week-based reporting (`Year - Week`), allowing consistent week-over-week KPI review.
 
 - Analytical Tools (VLOOKUP & XLOOKUP)
   - Designed helper sheets (“Paint Order Finder” & “Property Record Finder”) to instantly retrieve detailed order information (e.g., market, specialist, address, cycle time) by ID.
