@@ -1,0 +1,2 @@
+# MainStreet-Renewal-Supply-Chain-Dashboard-Excel-BI-System-
+Interactive Excel dashboard developed for MainStreet Renewal’s Supply Chain and Field Services Department, integrating data from multiple SharePoints to monitor KPIs, team performance, and job status across U.S. markets. The tool provides weekly segmentation and KPI visualization using PivotTables, charts, VBA and custom VLOOKUP/XLOOKUP tools
