@@ -8,6 +8,15 @@ The visuals shown here are authorized screenshots of the dashboards and analytic
 ---
 
 ### Overview
+
+![PO Dashboard](https://raw.githubusercontent.com/LucianoMalagola/MainStreet-Renewal-Supply-Chain-Dashboard-Excel-BI-System-/refs/heads/main/Excel%20Dashboard%20-%20MainStreet%20Renewal/1_PO_dashboard.png)
+![Initials Dashboard](https://raw.githubusercontent.com/LucianoMalagola/MainStreet-Renewal-Supply-Chain-Dashboard-Excel-BI-System-/refs/heads/main/Excel%20Dashboard%20-%20MainStreet%20Renewal/3_Initials_dashboard.png)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LucianoMalagola/MainStreet-Renewal-Supply-Chain-Dashboard-Excel-BI-System-/main/Excel%20Dashboard%20-%20MainStreet%20Renewal/2_PO_tool.png" width="50%" alt="Paint Order Finder">
+  <img src="https://raw.githubusercontent.com/LucianoMalagola/MainStreet-Renewal-Supply-Chain-Dashboard-Excel-BI-System-/main/Excel%20Dashboard%20-%20MainStreet%20Renewal/4_Initials_tool.png" width="48.5%" alt="Initials Tool">
+</p>
+
 Developed an interactive Excel-based Business Intelligence dashboard for the Supply Chain Construction and Field Services Department at MainStreet Renewal (U.S.).
 The tool consolidates multi-source data from several company SharePoints into a single, structured environment — enabling transparent performance tracking, KPI monitoring, and data-driven decision-making across all U.S. markets.
 
