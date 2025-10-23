@@ -13,7 +13,7 @@ The tool consolidates multi-source data from several company SharePoints into a 
 
 ### Key Features
 - Multi-Source Data Integration:
-  - Automated data consolidation from several SharePoint datasets into a unified table for real-time visibility across markets.
+  - Automated data consolidation from several SharePoint datasets into unified tables for real-time visibility across markets.
 
 - Data Cleaning & Transformation
   - Applied best practices in data validation, normalization, and error handling, ensuring consistent and accurate analysis.
